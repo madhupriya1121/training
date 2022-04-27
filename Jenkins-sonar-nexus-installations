@@ -6,6 +6,7 @@ sudo apt-get install openjdk-8-jdk
 
 Install Maven 3.3.9
 ---------------------
+apt-get install maven
 http://javedmandary.blogspot.com/2016/09/install-maven-339-on-ubuntu.html
 
 Install jenkins 
